@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.1;
 
-import "./Proxiable.sol";
+import "./proxyAdmin.sol";
 
 contract MyContract is Proxiable   {
 
